@@ -13,7 +13,7 @@ class LinkedList:
 
 if __name__ == '__main__':
     S_list = LinkedList()
-    # initialized node 3 objects
+    # initialize 3 node objects
     first_node = Node(1)
     second_node = Node(2)
     third_node = Node(3)
