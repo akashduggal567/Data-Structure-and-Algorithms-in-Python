@@ -62,6 +62,8 @@ if __name__ == "__main__":
     S_list.insert_front(0)
     S_list.insert_after(0, 1)
     S_list.insert_after(1, 2)
+    S_list.insert_after(1,5)
     S_list.insert_end(3)
     S_list.print_list()
 
+# 0->1->5->2->3->
